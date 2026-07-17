@@ -71,7 +71,7 @@ Este projeto foi criado para praticar a lógica de programação e consolidar os
 
 **Daniel Finotti**
 
-GitHub: https://github.com/SEU-USUARIO
+GitHub: https://github.com/danielfinotti2-spec/python-trabalhos-senac
 
 ---
 ⭐ Repositório criado para fins de estudo e aprendizado.
